@@ -18,5 +18,7 @@ Hello! 👋 My name is Sweekar Ghimire. I am a self learner, highly motivated  p
 - [x] Javascript
 - [x] CSS
 - [ ] Java
-- [x] MY sql 
+- [x] Database
+- [x] React
+- [x] Node js  
 
