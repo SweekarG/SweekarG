@@ -9,7 +9,7 @@ Hello! 👋 My name is Sweekar Ghimire. I am a self learner, highly motivated  p
 
 🌱 I’m currently learning Java.
 
-🤔 I’m looking for help with web development.
+🤔 I’m looking for growth in web development.
 
 📫 How to reach me: ghimiresweekar@gmail.com
 
@@ -17,8 +17,8 @@ Hello! 👋 My name is Sweekar Ghimire. I am a self learner, highly motivated  p
 
 - [x] Javascript
 - [x] CSS
-- [ ] Java
-- [x] Database
-- [x] React
-- [x] Node js  
+- [x] Java
+- [x] SQL
+- [ ] React
+- [ ] Node js  
 
